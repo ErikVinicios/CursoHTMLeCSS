@@ -1,0 +1,1 @@
+Extensão para ajudar na resposividade do site: Window Resizer
